@@ -11,11 +11,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 I am a .NET Softweare Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
- :telescope: I’m working as a Software Engineer and participate in the implementation of a CRM system based on a Terrasoft product.
+
+- :telescope: I’m working as a Software Engineer and participate in the implementation of a CRM system based on a Terrasoft product.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I constantly develop.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-maksim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-gusev-39b907222/)
 ---
